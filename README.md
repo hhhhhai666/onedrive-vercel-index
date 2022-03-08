@@ -42,7 +42,7 @@ Live demo at [Spencer's OneDrive](https://drive.swo.moe).
 
 ## Features
 
-<table>
+table>
   <tbody>
     <tr>
       <td>
